@@ -1,0 +1,12 @@
+Hackathon 01 – Project A
+Thursday, February 13th, 2014
+
+Descripció:
+
+Fent servir un llenguatge a elecció fer un programa que rebi un fitxer de codi font d’un llenguatge determinat i generi un fitxer HTML i/o tex que contingui el mateix codi però havent-hi aplicat un syntax highlighter.
+
+Restriccions:
+
+No es pot fer servir pygments ni consultes a serveis webs.
+
+Nivell: [flag_green | Baix]
